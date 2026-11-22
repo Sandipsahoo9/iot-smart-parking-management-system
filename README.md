@@ -354,7 +354,8 @@ The ESP32 also updates the gate status and timestamp in Firebase.
 The repository includes academic project documentation:
 
 - **Project Report:** Detailed explanation of the system, hardware, software, architecture, and working principle.
-- **Project Presentation:** Project overview, hardware components, working model, system architecture, applications, and future scope.
+  
+[View Project Documentation](IoT_major_project_report.pdf)
 
 ## 🔐 Security Notice
 
