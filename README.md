@@ -356,8 +356,8 @@ The repository includes academic project documentation:
 - **Project Report:** Detailed explanation of the system, hardware, software, architecture, and working principle.
 - **Project Presentation:** Project overview, hardware components, working model, system architecture, applications, and future scope.
 
-Refer to the `Documentation` folder.
-[Project Report]([IoT major project rroprt.pdf](https://github.com/Sandipsahoo9/iot-smart-parking-management-system/blob/main/IoT%20major%20project%20report.pdf))
+Refer to the ttps://github.com/Sandipsahoo9/iot-smart-parking-management-system/blob/main/IoT%20major%20project%20report.pdf) folder.
+
 
 
 ## 🔐 Security Notice
