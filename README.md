@@ -357,6 +357,7 @@ The repository includes academic project documentation:
 - **Project Presentation:** Project overview, hardware components, working model, system architecture, applications, and future scope.
 
 Refer to the `Documentation` folder.
+[Project Report](IoT major project rroprt.pdf)
 
 
 ## 🔐 Security Notice
