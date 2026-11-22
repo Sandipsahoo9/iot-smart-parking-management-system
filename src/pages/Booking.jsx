@@ -34,11 +34,11 @@ const Booking = () => {
             const bookedSlotIds = activeBookings.map(b => String(b.slotId));
             const validSlots = [];
 
-            for (let i = 1; i <= 6; i++) {
+            for (let i = 1; i <= 12; i++) {
                 const irValue = sensors[`IR${i}`];
-                // Condition 1: IR Sensor must be 1 (Vacant)
+                // Condition 1: IR Sensor must be 0 (Vacant)
                 // Condition 2: No active booking for this slot
-                if (irValue === 1 && !bookedSlotIds.includes(String(i))) {
+                if (irValue === 0 && !bookedSlotIds.includes(String(i))) {
                     validSlots.push(i);
                 }
             }
